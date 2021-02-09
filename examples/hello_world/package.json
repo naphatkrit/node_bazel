@@ -1,0 +1,12 @@
+{
+  "name": "hello_world",
+  "description": "Simple hello world web server with some sample dependencies",
+  "private": true,
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "chalk": "^4.1.0"
+  }
+}
